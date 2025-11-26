@@ -1,6 +1,10 @@
-# Weather-Guru
+<div align="center">
+  <img src="assets/logo.png" alt="Weather-Guru Logo" width="500">
 
-Ein intelligenter Wetter-Assistent, der mithilfe von KI (GPT-4o-mini) Wetterfragen zu deiner Region beantwortet.
+  # Weather-Guru
+
+  Ein intelligenter Wetter-Assistent, der mithilfe von KI (GPT-4o-mini) Wetterfragen zu deiner Region beantwortet.
+</div>
 
 ## Überblick
 
@@ -76,6 +80,8 @@ gpt_weather/
 │   └── gpt.py             # OpenAI API Integration
 ├── data/
 │   └── weather_code.json  # Wetter-Code Übersetzungen
+├── assets/
+│   └── logo.png           # Weather-Guru Logo
 ├── requirements.txt       # Python Dependencies
 ├── .env                   # API-Keys (nicht im Repo)
 ├── .gitignore
