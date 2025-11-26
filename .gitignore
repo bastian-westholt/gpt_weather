@@ -1,0 +1,8 @@
+# ----- Other AI-Integration Scripts -----
+claude.py
+
+# ----- Environment Variables -----
+.env
+.idea/
+.claude/
+.venv/
