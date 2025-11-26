@@ -1,6 +1,7 @@
 <div align="center">
   <img src="assets/logo.png" alt="Weather-Guru Logo" width="500">
 
+  
   Ein intelligenter Wetter-Assistent, der mithilfe von KI (GPT-4o-mini) Wetterfragen zu deiner Region beantwortet.
 </div>
 
